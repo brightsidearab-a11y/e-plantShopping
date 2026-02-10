@@ -1,8 +1,9 @@
 import React from 'react';
 const AboutUs = () => (
-  <div style={{textAlign: 'center', padding: '20px'}}>
+  <div className="about-us-container">
     <h1>About Us</h1>
-    <p>We are a specialized nursery providing high-quality indoor and outdoor plants.</p>
+    <p>Welcome to Paradise Nursery, where green dreams come true!</p>
+    <p>Our mission is to provide high-quality plants that bring life and purer air to your home.</p>
   </div>
 );
 export default AboutUs;
